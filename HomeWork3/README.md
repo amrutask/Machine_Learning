@@ -4,6 +4,7 @@ The goal of this homework is to learn how to leverage pretrained convnets(VGG19)
 ## Dataset: 
 cats vs dogs from https://storage.googleapis.com/mledu-datasets/cats_and_dogs_filtered.zip
 
+## Problem Statements
 #### Problem1:
 Feature extraction with data augmentation.
 
